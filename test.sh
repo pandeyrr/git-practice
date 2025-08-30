@@ -1,4 +1,4 @@
-echo "Now I’m practicing Git collaboration 🚀"#!/bin/bash
+#!/bin/bash
 echo "Hello DevOps, this is my first script!"
-echo "Now I’m practicing Gitx
-This is feature script branch
+echo "Now I’m practicing Git collaboration 🚀"
+
