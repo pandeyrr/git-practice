@@ -16,9 +16,9 @@ jobs:
    
     - name: Check shell script syntax
       run:  |
-      sudo apt-get update
-      sudo apt-get install -y shellcheck 
-      shellcheck test.sh
+        sudo apt-get update
+        sudo apt-get install -y shellcheck 
+        shellcheck test.sh
 
     - name: Run test.sh script
       run: bash test.sh
